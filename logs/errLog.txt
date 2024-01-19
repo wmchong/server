@@ -1,0 +1,12 @@
+20240114	17:59:12	da5825e1-c611-4b79-91b9-7f82be41993a	ReferenceError: token is not defined
+20240114	17:59:26	d8fd04f6-b757-4c99-a420-aa0b4f6243cc	ReferenceError: token is not defined
+20240114	18:12:38	adc50903-b8b1-452c-ac77-c979ba3baf0a	Error: Cannot find module '../encodings'
+Require stack:
+- C:\Users\Wei Meng\05TUT\node_modules\iconv-lite\lib\index.js
+- C:\Users\Wei Meng\05TUT\node_modules\raw-body\index.js
+- C:\Users\Wei Meng\05TUT\node_modules\body-parser\lib\read.js
+- C:\Users\Wei Meng\05TUT\node_modules\body-parser\lib\types\json.js
+- C:\Users\Wei Meng\05TUT\node_modules\body-parser\index.js
+- C:\Users\Wei Meng\05TUT\node_modules\express\lib\express.js
+- C:\Users\Wei Meng\05TUT\node_modules\express\index.js
+- C:\Users\Wei Meng\05TUT\server.js
